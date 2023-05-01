@@ -1,3 +1,19 @@
+logo du générateur de démarquage de profil github
+Générateur README de profil GitHub
+Star ce dépôt
+15559
+Fork sur GitHub
+4266
+
+retour à l'édition
+
+copié
+
+démarquage de téléchargement
+
+télécharger la sauvegarde
+
+Aperçu
 <h1 align="center">Salut 👋, je suis Walid Djellai</h1>
 <h3 align="center">Un développeur frontend passionné d'Algérie</h3>
 
@@ -32,3 +48,30 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waliddjla&show_icons=true&locale=en&layout=compact" alt="waliddjla" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=waliddjla&show_icons=true&locale=en" alt="waliddjla" /> </p>
+
+Soutien  🙏
+Utilisez-vous l'outil et en êtes-vous satisfait pour créer votre profil GitHub ?
+Votre aimable soutien permet de garder des outils open source comme celui-ci gratuits pour les autres.
+tweet générateur de fichier readme de profil github
+Faites savoir au monde ce que vous ressentez en utilisant cet outil. Partagez avec d'autres sur Twitter.
+Astuce 💰
+Acheter du ko-fi pour rahuldkjain
+Achetez-moi un ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A Coffee
+Achetez-moi un café
+logo du générateur de démarquage de profil github
+Générateur README de profil GitHub
+pages
+Compléments
+Soutien
+À propos
+Plus
+GithubGenericName
+Communiqués
+Questions
+Demandes d'extraction
+Rejoindre la communauté
+Discorde de la communauté
+Développé en Inde 🇮🇳
+Achetez-moi un café
