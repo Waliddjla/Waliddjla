@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Getting job**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at [..](https://walidjellali.netlify.app/)
 
 - 💬 Ask me about **javascript, React**
 
