@@ -101,7 +101,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/walid-djellali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-djellali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/waliddjellali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-djellali" height="30" width="40" /></a>
 <a href="https://twitter.com/walidbibo1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walidbibo1997" height="30" width="40" /></a>
 <a href="https://codepen.io/waliddjla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="waliddjla" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16087885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16087885" height="30" width="40" /></a>
